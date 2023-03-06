@@ -5,5 +5,5 @@ Tecnólogo em Análise e Desenvolvimento de Sistema pela Estácio - 2022,
 Especialista em Gestão e Supervisão Escolar - 2018
 Licenciado em Matemática pela Universidade Federal do Piauí-UFPI - 2015.
 
-Projetos: Sistema Escolar em dephi - https://youtu.be/nHiv9kgpOoI
-          
+Projetos: * Sistema Escolar em dephi - https://youtu.be/nHiv9kgpOoI
+          * E os disponíveis aqui no github
